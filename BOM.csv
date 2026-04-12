@@ -1,0 +1,21 @@
+Reference,Qty,Value,Unit Price,Total price,Source,Footprint,Datasheet
+"C1,C2,C4",3,100nF,$0.36,$1.08,https://www.digikey.com/en/products/detail/kemet/C315C104M5U5TA/817927,Capacitor_THT:C_Disc_D10.0mm_W2.5mm_P5.00mm,https://yageogroup.com/content/datasheet/asset/file/KEM_C1051_GOLDMAX_Z5U
+C3,1,10nF,$0.30,$0.30,https://www.digikey.com/en/products/detail/kemet/C315C103K5R5TA/817924,Capacitor_THT:C_Disc_D10.0mm_W2.5mm_P5.00mm,https://yageogroup.com/content/datasheet/asset/file/KEM_C1050_GOLDMAX_X7R
+J1,1,Battery charger,$2.09,$2.09,https://www.aliexpress.us/item/3256807978024318.html,Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical,https://www.aliexpress.us/item/3256807978024318.html
+J2,1,Battery connector,$0.11,$0.11,https://www.digikey.com/en/products/detail/jst-sales-america-inc/B2B-PH-K-S/926611,Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,https://www.jst-mfg.com/product/pdf/eng/ePH.pdf
+,1,Battery ,$7.34,$7.34,https://www.aliexpress.us/item/3256811659050819.html,,
+"J3, J4",2,USB C ports,$0.89,$1.78,https://www.digikey.com/en/products/detail/gct/USB4085-GF-A/9859662?s=N4IgTCBcDaIK4GcBGAWADADgKwgLoF8g,Connector_USB:USB_C_Receptacle_GCT_USB4085,"https://www.usb.org/sites/default/files/documents/usb_type-c.zip
+https://gct.co/files/drawings/usb4085.pdf"
+J5,1,SD card header,$0.37,$0.37,https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPTC041LFBN-RC/810144,Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical,https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/937/Female_Headers.100_DS.pdf
+J6,1,Screen header,$0.40,$0.40,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/61300811821/17737805,Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical,https://www.we-online.com/components/products/datasheet/61300811821.pdf
+,1,Screen,$4.33,$4.33,https://www.aliexpress.us/item/3256807856044374.html,,
+Q1,1,2N3904,$0.09,$0.09,https://www.digikey.com/en/products/detail/lumimax-optoelectronic-technology/2N3904/22116349,Package_TO_SOT_THT:TO-92_Inline,https://www.onsemi.com/pub/Collateral/2N3903-D.PDF
+"R1,R2",2,4.7k,$0.10,$0.20,https://www.digikey.com/en/products/detail/yageo/CFR-25JB-52-4K7/1846,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Vertical,https://yageogroup.com/content/Resource%20Library/Datasheet/YAGEO-CFR_DATASHEET.pdf
+R3,1,1k,$0.10,$0.10,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT1K00/1741314,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Vertical,https://www.seielect.com/catalog/SEI-CF_CFM.pdf
+"SW1,SW2,SW3",3,SW_Push,$0.27,$0.81,https://www.digikey.com/en/products/detail/c-k/PTS647SM38SMTR2-LFS/9649861,Button_Switch_THT:SW_PUSH_6mm_H7.3mm,https://www.littelfuse.com/assetdocs/littelfuse-c-k-tactile-pts647-series-datasheet?assetguid=388b4cb1-17cb-4994-a99c-db3735b2dfee
+U1,1,AP2112K-3.3TRG1,$0.22,$0.22,https://www.digikey.com/en/products/detail/diodes-incorporated/AP2112K-3-3TRG1/4470746?s=N4IgTCBcDaIIIAUwEZlgNIFoDMA6bAKgEoDiyIAugL5A,AP2112K-3.3TRG1:SOT95P285X140-5N,https://www.diodes.com/assets/Datasheets/AP2112.pdf
+U2,1,TPS22918TDBVRQ1,$0.66,$0.66,https://www.digikey.com/en/products/detail/texas-instruments/TPS22918TDBVRQ1/6164978?s=N4IgTCBcDaICoAUDKYwE4CMAOOARAQgGoBKAihiALoC%2BQA,TPS22918TDBVRQ1:SOT95P280X145-6N,https://www.ti.com/lit/ds/symlink/tps22918-q1.pdf
+U3,1,INA219AxD,$1.89,$1.89,https://www.digikey.com/en/products/detail/texas-instruments/INA219AIDR/1984881,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,http://www.ti.com/lit/ds/symlink/ina219.pdf
+U4,1,ESP32-S3-DEVKITC-1-N8R2,$5.89,$5.89,https://www.aliexpress.us/item/3256808564662702,ESP32-S3-DEVKITC-1-N8R2:XCVR_ESP32-S3-DEVKITC-1-N8R2,https://www.aliexpress.us/item/3256808564662702
+,,,,,,,
+Total Price,27.66,,,,,,
