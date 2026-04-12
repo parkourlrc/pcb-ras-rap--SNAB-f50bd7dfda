@@ -17,5 +17,8 @@ U1,1,AP2112K-3.3TRG1,$0.22,$0.22,https://www.digikey.com/en/products/detail/diod
 U2,1,TPS22918TDBVRQ1,$0.66,$0.66,https://www.digikey.com/en/products/detail/texas-instruments/TPS22918TDBVRQ1/6164978?s=N4IgTCBcDaICoAUDKYwE4CMAOOARAQgGoBKAihiALoC%2BQA,TPS22918TDBVRQ1:SOT95P280X145-6N,https://www.ti.com/lit/ds/symlink/tps22918-q1.pdf
 U3,1,INA219AxD,$1.89,$1.89,https://www.digikey.com/en/products/detail/texas-instruments/INA219AIDR/1984881,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,http://www.ti.com/lit/ds/symlink/ina219.pdf
 U4,1,ESP32-S3-DEVKITC-1-N8R2,$5.89,$5.89,https://www.aliexpress.us/item/3256808564662702,ESP32-S3-DEVKITC-1-N8R2:XCVR_ESP32-S3-DEVKITC-1-N8R2,https://www.aliexpress.us/item/3256808564662702
+SW4,1,Small button,$0.89,$0.89,https://www.digikey.com/en/products/detail/c-k/KMR231NG-LFS/2176497,SW_Push_1P1T_NO_CK_KMR2,https://www.littelfuse.com/assetdocs/littelfuse-c-k-tactile-kmr2-series-datasheet?assetguid=f782bfc7-b600-4ab5-8c8d-a2a094a642e3
 ,,,,,,,
-Total Price,27.66,,,,,,
+,,,,,,,
+,,,,,,,
+Total Price,28.55,,,,,,
